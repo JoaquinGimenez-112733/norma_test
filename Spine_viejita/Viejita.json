@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "C:/Users/Usuario/Documents/Juego Viejita/Spine_viejita/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Cabeza", "bone": "root", "attachment": "Cabeza" },
+	{ "name": "Bufanda", "bone": "root", "attachment": "Bufanda" },
+	{ "name": "Brazo Izquierdo", "bone": "root", "attachment": "Brazo Izquierdo" },
+	{ "name": "Brazo Derecho", "bone": "root", "attachment": "Brazo Derecho" },
+	{ "name": "Cuerpo", "bone": "root", "attachment": "Cuerpo" },
+	{ "name": "Pie Izquierdo", "bone": "root", "attachment": "Pie Izquierdo" },
+	{ "name": "Pie Derecho", "bone": "root", "attachment": "Pie Derecho" }
+],
+"skins": {
+	"default": {
+		"Cabeza": {
+			"Cabeza": { "x": 1053.5, "y": -323, "width": 479, "height": 524 }
+		},
+		"Bufanda": {
+			"Bufanda": { "x": 1033, "y": -690.5, "width": 376, "height": 409 }
+		},
+		"Brazo Izquierdo": {
+			"Brazo Izquierdo": { "x": 844.5, "y": -707.5, "width": 139, "height": 277 }
+		},
+		"Brazo Derecho": {
+			"Brazo Derecho": { "x": 1297.5, "y": -692.5, "width": 251, "height": 399 }
+		},
+		"Cuerpo": {
+			"Cuerpo": { "x": 1010, "y": -791.5, "width": 400, "height": 317 }
+		},
+		"Pie Izquierdo": {
+			"Pie Izquierdo": { "x": 954, "y": -989.5, "width": 112, "height": 117 }
+		},
+		"Pie Derecho": {
+			"Pie Derecho": { "x": 1091.5, "y": -985, "width": 117, "height": 108 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
